@@ -1,0 +1,382 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"is_sum_of_abundants"
+			],
+			[
+				"abundant",
+				"abundants"
+			],
+			[
+				"y",
+				"y_"
+			],
+			[
+				"digit",
+				"digit_sum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/kyle/scripts/truncate_path.py",
+			"settings":
+			{
+				"buffer_size": 391,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/kyle/.bashrc",
+			"settings":
+			{
+				"buffer_size": 5832,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python3.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/Python/Python3.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kyle/Dropbox/Projects/Coding/ProjectEuler"
+	],
+	"file_history":
+	[
+		"/home/kyle/Dropbox/Projects/Coding/ProjectEuler/pe26.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe25.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe24.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/optimize/__init__.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/optimize/pe23.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe23.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/helpers/divisors.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe22.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/inputs/names.csv",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe22",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/ProjectEuler.sublime-project",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/optimize/pe21.py",
+		"/C/Users/Kyle/AppData/Roaming/Sublime Text 3/Packages/Python/Python.sublime-build",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/optimize/pe20.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/solved/pe17.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/Python/Exercises/Morsels/meetup_date.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/Python/Exercises/Morsels/point.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/Python/Exercises/Morsels/tail.py",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/Python/Exercises/Morsels/multimax.py",
+		"/C/Users/Kyle/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Program Files/Sublime Text 3/Packages/Python.sublime-package",
+		"/C/Users/Kyle/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/Javascript/WesBos/drumkit.html",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/Javascript/JavaScript30-master/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe18.hs",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe20.hs",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe20.hi",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe18.hi",
+		"/C/Users/Kyle/Dropbox/Projects/Coding/ProjectEuler/pe18.exe",
+		"/C/Users/Kyle/Dropbox/Projects/ProjectEuler/pe18.hs",
+		"/C/Users/Kyle/Dropbox/Projects/Haskell/LearnYouAHaskell/chapter3.hs",
+		"/C/Users/Kyle/Dropbox/Projects/Haskell/LearnYouAHaskell/chapter2.hs",
+		"/C/Users/Kyle/Dropbox/Projects/Haskell/main.hs",
+		"/C/Users/Kyle/Dropbox/Projects/Haskell/LearnYouAHaskell/Chapter2.hs",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/ProjectEuler/pe17.py",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/ProjectEuler/pe16.py",
+		"/C/Users/Kyle/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Kyle/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/ProjectEuler/pe15.py",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/Morsels/test_earliest.py",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/Morsels/test/test_earliest.py",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/ProjectEuler/pe14.py",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/ProjectEuler/pe13.py",
+		"/C/Users/Kyle/Dropbox/Projects/Python/Exercises/ProjectEuler/inputs/input13.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"․",
+			"-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\x{2026}",
+			"\\x{2024}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/kyle/scripts/truncate_path.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/kyle/.bashrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1911,
+								1911
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Bash.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 882.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 284.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ProjectEuler.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 133.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
