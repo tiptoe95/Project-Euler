@@ -1,16 +1,17 @@
 #!/bin/python3
 
 
-from .. import helpers.prime.isprime 
+from helpers.prime import isprime
 
 
 def is_truncable(num):
     num = str(num)
-    revnum = num[::-1]
     nums = []
     for i in range(len(num)):
         nums.append(num[:len(num)-i])
-        nums.append(revnum[:len(num)-i])
+        nums.append(num[i:len(num)])
+    nums = [int(num) for num in nums]
+    print(nums)
     for j in nums:
         if not isprime(j):
             return False
@@ -30,8 +31,10 @@ def main():
 
 
 def test():
-    is_truncable(12345)
+    if is_truncable(3797):
+        print("tiggle")
+    print("not tiggle")
 
 
 if __name__ == "__main__":
-    test()
+    main()
