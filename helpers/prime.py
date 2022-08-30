@@ -1,9 +1,27 @@
+#!/bin/python3
+
+
 """A collection of functions to support scripts involving prime numbers"""
 
 
 prime_list = [2, 3, 5, 7, 11, 13, 17, 19, 23]
 prime_dict = dict.fromkeys(prime_list, 1)
 lastn = prime_list[-1]
+
+
+def _sieve_eratosthenes(num):
+    """generate primes up to n"""
+    sieve = [True for n in range(num+1)]
+    p = 2
+    while (p**2 <= num):
+        if sieve[p]:
+            for i in range(p**2, num+1, p):
+                sieve[i] = False
+        p += 1
+    return [x for x in range(num+1) if sieve[x]]
+
+def primes(limit):
+    return _sieve_eratosthenes(limit)
 
 
 def _isprime(n):
@@ -92,6 +110,16 @@ def num_facotrs(n):
         x += 1
         div *= c
     return div
+
+
+def test():
+    arr = _sieve_eratosthenes(100)
+    print(arr)
+    return
+
+
+if __name__ == "__main__":
+    test()
 
 
 """
